@@ -19,7 +19,7 @@
 |                         | https://github.com/bohrmeista/1338      |                  |
 | https://nup.pw/         |                                         | 150              | JS-free
 | https://comfy.moe/      |                                         | 512              |
-| https://p.fuwafuwa.moe/ |                                         | 50               | JS-free
+| https://p.fuwafuwa.moe/ |                                         | 50               | Currently disabled, JS-free
 | https://doko.moe/       |                                         | 2048             | Rude, JS-free
 | https://catbox.moe/     |                                         | 200              | JS-free
 | https://biyori.moe/     |                                         | 100              |
